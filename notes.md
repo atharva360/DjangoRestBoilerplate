@@ -1,8 +1,10 @@
 ### Project Setup
 
 ** To run project**
+```sh
 docker compose build
 docker compose up
+```
 
 1. **Make and apply migrations:**
 
